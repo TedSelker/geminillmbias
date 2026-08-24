@@ -1,0 +1,6 @@
+{
+  "name": "Cognitive Bias Model & Text Analyzer",
+  "description": "Analyze text using a cognitive bias model to detect biases above 80% confidence, highlight them in red with hover definitions, and rank the top 5 biases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
